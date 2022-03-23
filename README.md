@@ -16,6 +16,7 @@ My Records of Done Algorithm Exercises
 |   8   |   03/22/2022   |   Medium   |      87.06%      |      59.97%      | JavaScript |  poor  |
 |   9   |   03/23/2022   |    Easy    |      77.58%      |      55.40%      | JavaScript |  poor  |
 |  10   |   03/23/2022   |    Hard    | 83.53%<br>80.01% | 18.35%<br>18.92% | JavaScript |  poor  |
+|  404  |   03/23/2022   |    Easy    |      73.96%      |      14.37%      | JavaScript |  poor  |
 |  440  |   03/23/2022   |    Hard    |      55.55%      |      5.26%       | JavaScript |  poor  |
 |  653  |   03/22/2022   |    Easy    |      88.72%      |      46.02%      | JavaScript |  poor  |
 | 2038  |   03/22/2022   |   Medium   |      79.41%      |      76.47%      | JavaScript |  poor  |
