@@ -22,4 +22,5 @@ My Records of Done Algorithm Exercises
 |  440  |   03/23/2022   |    Hard    | 55.55%<br>68.12%<br>87.92% | 5.26%<br>13.52%<br>17.39% | JavaScript |
 |  653  |   03/22/2022   |    Easy    |           88.72%           |          46.02%           | JavaScript |
 |  661  |   03/24/2022   |    Easy    |           16.83%           |           6.40%           | JavaScript |
+|  682  |   03/26/2022   |    Easy    |           91.14%           |          98.19%           |    C++     |
 | 2038  |   03/22/2022   |   Medium   |           79.41%           |          76.47%           | JavaScript |
